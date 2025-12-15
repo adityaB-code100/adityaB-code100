@@ -51,6 +51,10 @@
 </p>
 ---
 
+### 📅 Daily Coding Tracker
+![LeetCode Streak](https://leetcode-badge-showcase.vercel.app/api?username=adityabandewar206)
+
+
 
 ## 📊 GitHub Stats  
 
