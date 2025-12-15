@@ -41,6 +41,17 @@
 
 ---
 
+## 🧩 Coding Profiles
+
+- 💡 LeetCode: https://leetcode.com/YOUR_LEETCODE_USERNAME/
+- 🧠 Focus: DSA in Python & Java
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/adityabandewar206?theme=dark&font=Baloo&ext=heatmap" />
+</p>
+---
+
+
 ## 📊 GitHub Stats  
 
 <p align="center">
