@@ -43,7 +43,7 @@
 
 ## 🧩 Coding Profiles
 
-- 💡 LeetCode: https://leetcode.com/YOUR_LEETCODE_USERNAME/
+- 💡 LeetCode: https://leetcode.com/adityabandewar206/
 - 🧠 Focus: DSA in Python & Java
 
 <p align="center">
