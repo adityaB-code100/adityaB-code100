@@ -49,7 +49,6 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/adityabandewar206?theme=dark&font=Baloo&ext=heatmap" />
 </p>
----
 
 ### 📅 Daily Coding Tracker
 ![LeetCode Streak](https://leetcode-badge-showcase.vercel.app/api?username=adityabandewar206)
