@@ -35,14 +35,6 @@ An interactive analytics dashboard that visualizes datasets and provides machine
 ---
  
 
----
-
-### 🧠 Smart ATS Resume Analyzer  
-An AI-powered resume analysis system that compares resumes with job descriptions and provides ATS-friendly improvement suggestions.  
-**Tech Stack:** Flask, NLP, Gemini AI, SQLite  
-
----
-
 ### 🌍 Hyperlocal AQI Prediction & Visualization App  
 🔗 Live Demo: https://hyperlocal-aqi-api-gateway.onrender.com/  
 A predictive application that forecasts future AQI levels using historical and satellite-based data with interactive visual insights.  
