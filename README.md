@@ -18,6 +18,35 @@
 - ⚡ Fun fact: I enjoy building real-world problem-solving projects
 
 ---
+## 🚧 Featured Projects  
+
+### 🆘 ResQConnect – Emergency Assistance Platform  
+🔗 Live Demo: https://resqconncet.onrender.com/  
+A full-stack emergency response web application that enables users to report emergencies, receive alerts, and access critical assistance in real time.  
+**Tech Stack:** Flask, MongoDB, REST APIs, HTML, CSS, JavaScript  
+
+---
+
+### 📊 Data Visualization & Predictive Tool  
+🔗 Live Demo: https://data-visualization-and-predictive-tool.onrender.com/  
+An interactive analytics dashboard that visualizes datasets and provides machine learning–based predictions to support data-driven decision making.  
+**Tech Stack:** Python, Flask, Machine Learning, Plotly, Pandas  
+
+---
+ 
+
+---
+
+### 🧠 Smart ATS Resume Analyzer  
+An AI-powered resume analysis system that compares resumes with job descriptions and provides ATS-friendly improvement suggestions.  
+**Tech Stack:** Flask, NLP, Gemini AI, SQLite  
+
+---
+
+### 🌍 Hyperlocal AQI Prediction & Visualization App  
+🔗 Live Demo: https://hyperlocal-aqi-api-gateway.onrender.com/  
+A predictive application that forecasts future AQI levels using historical and satellite-based data with interactive visual insights.  
+**Tech Stack:** Machine Learning, Data Visualization, APIs  
 
 ## 🌐 Connect with Me  
 
@@ -80,12 +109,4 @@
 
 ---
 
-## 🚧 Featured Projects  
-
-- 🔹 **ResqConnect** – Emergency Assistance Web App (Flask + APIs)
-- 🔹 **Data Visualization & Prediction System**
-- 🔹 **Smart ATS Resume Analyzer**
-- 🔹 **Air Quality Prediction & Visualization App**
-
----
 
